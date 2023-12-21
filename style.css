@@ -80,9 +80,10 @@ body * {
     position: absolute;
     top: 50%;
     left: 0;
-    animation: slide-out 0.3s; 
     z-index: 1;
     transform: translateY(-50%);
+    
+    animation: slide-out 0.3s; 
 }
 
 .light #switch button {
